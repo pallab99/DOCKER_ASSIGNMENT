@@ -1,0 +1,387 @@
+[{
+  "_id": {
+    "$oid": "65018c91b5b9996c54eb0fdd"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "price": 15.99,
+  "description": "A novel about the decadence and moral decay of the American Dream in the Roaring Twenties.",
+  "rating": 4.133333333333334,
+  "stock": 179,
+  "category": "Classic",
+  "isbn": "978-5-5536-2514-9",
+  "publishedAt": {
+    "$date": "1999-08-09T18:00:00.000Z"
+  },
+  "__v": 4,
+  "reviews": [
+    {
+      "$oid": "650865b891a4df9bf3fe74d8"
+    }
+  ],
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "65018c91b5b9996c54eb0fde"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "price": 14.95,
+  "discount_price": 11.99,
+  "description": "A powerful story of racial injustice and moral growth in a small Southern town.",
+  "rating": 4.7,
+  "stock": 32,
+  "category": "Classic",
+  "isbn": "978-5-5536-2514-2",
+  "publishedAt": {
+    "$date": "1999-08-09T18:00:00.000Z"
+  },
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "65018c91b5b9996c54eb0fdf"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "price": 19.99,
+  "description": "A fantasy adventure novel featuring Bilbo Baggins on a journey to the Lonely Mountain.",
+  "rating": 5,
+  "stock": 59,
+  "category": "Fantasy",
+  "isbn": "978-5-5536-2514-1",
+  "publishedAt": {
+    "$date": "1999-08-09T18:00:00.000Z"
+  },
+  "disabled": false,
+  "__v": 1,
+  "reviews": [
+    {
+      "$oid": "65277023ecd73b596ef4b17d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65018c91b5b9996c54eb0fe0"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "price": 12.99,
+  "description": "A novel narrated by a disenchanted teenager as he roams the streets of New York City.",
+  "rating": 4.3,
+  "stock": 23,
+  "category": "Classic",
+  "isbn": "978-5-5536-2514-8",
+  "publishedAt": {
+    "$date": "1999-08-09T18:00:00.000Z"
+  },
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "65018c91b5b9996c54eb0fe1"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone updated",
+  "author": "J.K. Rowling",
+  "price": 21.99,
+  "description": "The first book in the Harry Potter series, where young Harry discovers his magical heritage.",
+  "rating": 5,
+  "stock": 53,
+  "category": "Fantasy",
+  "isbn": "978-5-5536-2514-7",
+  "publishedAt": {
+    "$date": "1999-08-09T18:00:00.000Z"
+  },
+  "__v": 1,
+  "reviews": [
+    {
+      "$oid": "6503e03f9a16a3a82e124543"
+    }
+  ],
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "65090384bf3ce2bc92630721"
+  },
+  "title": "Adarsha Hindu Hotel",
+  "author": "Bibhutibhushan Bandyopadhyay",
+  "price": 80,
+  "description": "Adarsha Hindu Hotel (Ideal Hindu Hotel) is a Bengali novel written by Bibhutibhushan Bandyopadhyay. The novel was first published in 1940",
+  "rating": 5,
+  "stock": 44,
+  "category": "Classic",
+  "publishedAt": {
+    "$date": {
+      "$numberLong": "-927590400000"
+    }
+  },
+  "isbn": "978-8-3797-6160-9",
+  "__v": 3,
+  "reviews": [
+    {
+      "$oid": "65099660aafab1fc663818d8"
+    }
+  ],
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "65099a500d78c1e1d55b26a7"
+  },
+  "title": "Gitanjali updated title",
+  "author": "Rabindranath Tagore",
+  "price": 450,
+  "description": "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore.",
+  "rating": 5,
+  "stock": 298,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "2000-08-10T00:00:00.000Z"
+  },
+  "isbn": "978-7-0344-2985-4",
+  "reviews": [
+    {
+      "$oid": "650a81950f6a7a669b91c343"
+    }
+  ],
+  "__v": 1,
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "651a236ebf4a0fa0da1dfa50"
+  },
+  "title": "New title",
+  "author": "Pallab",
+  "price": 454,
+  "description": "new updated description",
+  "rating": 4,
+  "stock": 454,
+  "category": "Classic",
+  "publishedAt": {
+    "$date": "2023-10-03T00:00:00.000Z"
+  },
+  "isbn": "978-0-9532-7114-6",
+  "reviews": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651a9d3c23e128df9b7a9a34"
+  },
+  "title": "new update book latest",
+  "author": "Pallab",
+  "price": 23,
+  "description": "ghghfhthdhcvb fdvffff",
+  "rating": 4,
+  "stock": 34,
+  "category": "Classic",
+  "publishedAt": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "isbn": "978-3-6475-7828-6",
+  "reviews": [],
+  "__v": 0,
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "6523acd6c2bbea03d5a4cb10"
+  },
+  "title": "Vande Mataram update",
+  "author": "Chandra Chatterjee",
+  "price": 34,
+  "description": "Vande Mataram is a poem written in Sanskrit and Sanskritised Bengali by Bankim Chandra Chatterjee in the 1870s. The first two verses of the poem were adopted as the National Song of India..",
+  "rating": 4,
+  "stock": 34,
+  "category": "Poem ",
+  "publishedAt": {
+    "$date": "2023-10-18T00:00:00.000Z"
+  },
+  "isbn": "978-6-9192-4548-0",
+  "reviews": [],
+  "__v": 0,
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "6526340027e10bcf2d9f1c2a"
+  },
+  "title": "Shesher Kabita",
+  "author": "Rabindranath Tagore",
+  "price": 200,
+  "description": "Shesher Kabita is a novel by Rabindranath Tagore. The novel was serialised in 1928, from Bhadra to Choitro in the magazine Probashi, and was published in book form the following year.",
+  "rating": 3.5,
+  "stock": 498,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": {
+      "$numberLong": "-1290211200000"
+    }
+  },
+  "isbn": "978-2-8579-3078-5",
+  "reviews": [
+    {
+      "$oid": "65275d84ecd73b596ef4ae2c"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6526387727e10bcf2d9f1cb7"
+  },
+  "title": "chelebela",
+  "author": "Rabindranath Tagore",
+  "price": 2300,
+  "description": "Anandamath is a Bengali historical novel, written by Bankim Chandra Chattopadhyay and published in 1882. It is inspired by and set in the background of the Sannyasi Rebellion in the late 18th century",
+  "rating": 1,
+  "stock": 459,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "2012-06-11T00:00:00.000Z"
+  },
+  "isbn": "978-2-1662-2421-6",
+  "__v": 16
+},
+{
+  "_id": {
+    "$oid": "6527b2462f9ca3ff4074541b"
+  },
+  "title": "Gora",
+  "author": "Rabindranath Tagore",
+  "price": 200,
+  "description": "ora is a novel by Rabindranath Tagore, set in Calcutta, in the 1880s during the British Raj. It is the fifth in order of writing and the longest of Tagore’s twelve novels.",
+  "rating": 4.333333333333333,
+  "stock": 390,
+  "category": "Fantsy",
+  "publishedAt": {
+    "$date": {
+      "$numberLong": "-1868918400000"
+    }
+  },
+  "isbn": "978-1-9693-4337-7",
+  "reviews": [
+    {
+      "$oid": "6528065aaf3f54df0a768123"
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "652e2026858cf0b6d0629150"
+  },
+  "title": "Pallab",
+  "author": "pallab",
+  "price": 210,
+  "description": "Gkjgsjkgfkjgfkjgxkjgfjkxgjkxgkjg gdfgdgjkdgjkgdkjgfkjvdjx",
+  "rating": 4,
+  "stock": 400,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "2000-10-18T00:00:00.000Z"
+  },
+  "isbn": "978-8-0985-5042-3",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/Pallab/1697521702566_ss1.png"
+},
+{
+  "_id": {
+    "$oid": "652e296f7d5e9184ad3fe9e0"
+  },
+  "title": "Pallab new 2",
+  "author": "pallab",
+  "price": 210,
+  "description": "Gkjgsjkgfkjgfkjgxkjgfjkxgjkxgkjg gdfgdgjkdgjkgdkjgfkjvds",
+  "rating": 4,
+  "stock": 400,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "2000-10-18T00:00:00.000Z"
+  },
+  "isbn": "978-8-0985-5042-4",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/Pallab new 2/1697524078786_ss5.png"
+},
+{
+  "_id": {
+    "$oid": "652e3ce748dc69d97378f199"
+  },
+  "title": "sddgfh",
+  "author": "Rabindranath Tagore",
+  "price": 34,
+  "description": "Anandamath is  Bengali historical novel, written by Bankim Chandra Chattopadhyay and published in 1882. It is inspired by and set in the background of the Sannyasi Rebellion in the late 18th century",
+  "rating": 3,
+  "stock": 45,
+  "category": "Classic",
+  "publishedAt": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "isbn": "978-5-9420-6261-3",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/sddgfh/1697529062852_6.png"
+},
+{
+  "_id": {
+    "$oid": "652e3ed39ba48de815cf920b"
+  },
+  "title": "Himu",
+  "author": "Humayun Ahmed",
+  "price": 180,
+  "description": "Himu or Himaloy is a fictional character created by the Bangladeshi writer Humayun Ahmed who appears in a disjunct series of novels",
+  "rating": 5,
+  "stock": 400,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "1990-06-18T00:00:00.000Z"
+  },
+  "isbn": "978-1-8070-8941-2",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/Himu/1697529554942_unnamed.png"
+},
+{
+  "_id": {
+    "$oid": "652e42089ba48de815cf923a"
+  },
+  "title": "Ami",
+  "author": "Humayun Ahmed",
+  "price": 200,
+  "description": "Humayun Ahmed was a Bangladeshi novelist, dramatist, screenwriter, filmmaker, songwriter, scholar, and academic. His breakthrough was his debut novel Nondito Noroke published in 1972",
+  "rating": 4,
+  "stock": 450,
+  "category": "Novel",
+  "publishedAt": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isbn": "978-2-4700-2203-4",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/Ami/1697530376103_ami.jpg"
+},
+{
+  "_id": {
+    "$oid": "652e5ccfdd31e9de528f5978"
+  },
+  "title": "Nondite Noroke",
+  "author": "Humayun Ahmed",
+  "price": 333,
+  "description": "Nondito Noroke is a 1972 novel by Bangladeshi author Humayun Ahmed. Ahmed wrote this debut novel in 1970 while he was an undergraduate student at the University of Dhaka. ",
+  "rating": 5,
+  "stock": 456,
+  "category": "Classic",
+  "publishedAt": {
+    "$date": "2023-10-17T00:00:00.000Z"
+  },
+  "isbn": "978-0-3722-6665-5",
+  "reviews": [],
+  "__v": 0,
+  "image": "images/Nondite Noroke/1697537230857_Nondito_Noroke.jpg"
+}]

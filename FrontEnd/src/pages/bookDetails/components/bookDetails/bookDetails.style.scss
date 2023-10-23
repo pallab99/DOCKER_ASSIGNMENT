@@ -1,0 +1,66 @@
+@import "./../../../../scss//constant.scss";
+.book-details-container {
+  max-width: 1200px;
+  margin: 40px auto;
+}
+.book-details-wrapper {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.book-image-div {
+  flex-basis: 45%;
+  //   box-shadow: $boxShadow;
+}
+.book-description {
+  flex-basis: 45%;
+  //   display: grid;
+  //   box-shadow: $boxShadow;
+}
+.book-img {
+  height: 100%;
+  width: 85%;
+  object-fit: cover;
+}
+
+.chip {
+  padding: 5px;
+  background-color: #eef0f2;
+  width: fit-content;
+}
+
+@media (max-width: 1024px) {
+  .book-details-wrapper {
+    justify-content: space-evenly;
+  }
+}
+
+@media (max-width: 768px) {
+  .book-details-wrapper {
+    flex-direction: column;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+}
+@media (max-width: 640px) {
+  .book-details-wrapper {
+    flex-direction: column;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .book-description h1 {
+    font-size: 23px;
+  }
+}
+.genre-style {
+}
+
+.stock-div {
+  display: flex;
+  align-items: center;
+}
+.stock-div img {
+  width: 5%;
+  height: 3%;
+  object-fit: cover;
+}

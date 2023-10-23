@@ -1,0 +1,44 @@
+.footer-container {
+  display: flex;
+  background-color: #37383e;
+  color: white;
+  justify-content: space-evenly;
+  padding: 80px 10px;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-radius: 100% 0% 100% 0% / 27% 100% 0% 73%;
+}
+.subscribe-box {
+  display: flex;
+  gap: 5px;
+}
+.subscribe-box input {
+  width: 70%;
+  background-color: transparent;
+  color: white;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid white;
+  padding: 8px 5px;
+}
+.email-div-header {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.phone-div-header {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.social-media-icon-wrapper {
+  display: flex;
+  gap: 8px;
+}
+@media (max-width: 640px) {
+  .footer-container {
+    justify-content: flex-start;
+    gap: 10px;
+    border-radius: 100% 0% 100% 0% / 17% 100% 0% 83%;
+  }
+}

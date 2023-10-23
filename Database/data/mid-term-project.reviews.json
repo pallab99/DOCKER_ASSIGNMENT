@@ -1,0 +1,333 @@
+[{
+  "_id": {
+    "$oid": "6503e03f9a16a3a82e124543"
+  },
+  "book": {
+    "$oid": "65018c91b5b9996c54eb0fe1"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6502e278d412e682653fff98"
+      },
+      "message": "Great book",
+      "rating": 5,
+      "_id": {
+        "$oid": "6503e0409a16a3a82e124545"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-15T04:40:31.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T04:40:32.164Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65053457299ab4c0d6f3ebb3"
+  },
+  "book": {
+    "$oid": "6502fa36b45b576cb8547ad2"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6502e278d412e682653fff98"
+      },
+      "message": "Great book 2",
+      "rating": 5,
+      "_id": {
+        "$oid": "65053457299ab4c0d6f3ebb5"
+      }
+    },
+    {
+      "user": {
+        "$oid": "6503cea228159b4510e1fbf1"
+      },
+      "message": "Average",
+      "rating": 3.4,
+      "_id": {
+        "$oid": "6508663b91324633ed4ce91d"
+      }
+    },
+    {
+      "user": {
+        "$oid": "651fcc1e3415ef9211fb6696"
+      },
+      "message": "Great Book update",
+      "rating": 4,
+      "_id": {
+        "$oid": "6526c56de8e1724172b60be4"
+      }
+    },
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "average book",
+      "rating": 2,
+      "_id": {
+        "$oid": "6527a40c2f9ca3ff40745244"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-16T04:51:35.134Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:45:16.991Z"
+  },
+  "__v": 25
+},
+{
+  "_id": {
+    "$oid": "650865b891a4df9bf3fe74d8"
+  },
+  "book": {
+    "$oid": "65018c91b5b9996c54eb0fdd"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6503cea228159b4510e1fbf1"
+      },
+      "message": "Average",
+      "rating": 3.4,
+      "_id": {
+        "$oid": "650865b891a4df9bf3fe74da"
+      }
+    },
+    {
+      "user": {
+        "$oid": "650a4bbc3724e1e7b87344d8"
+      },
+      "message": "great book",
+      "rating": 5,
+      "_id": {
+        "$oid": "650a74010f6a7a669b91c2fd"
+      }
+    },
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "Great Book",
+      "rating": 4,
+      "_id": {
+        "$oid": "65281246af3f54df0a768489"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-18T14:59:04.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T15:40:00.504Z"
+  },
+  "__v": 14
+},
+{
+  "_id": {
+    "$oid": "65099660aafab1fc663818d8"
+  },
+  "book": {
+    "$oid": "65090384bf3ce2bc92630721"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "just awesome book mind blowing.100 on 100",
+      "rating": 5,
+      "_id": {
+        "$oid": "65099661aafab1fc663818da"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-19T12:38:56.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T01:57:46.677Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "650a81950f6a7a669b91c343"
+  },
+  "book": {
+    "$oid": "65099a500d78c1e1d55b26a7"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "650a4bbc3724e1e7b87344d8"
+      },
+      "message": "great book",
+      "rating": 5,
+      "_id": {
+        "$oid": "650a81950f6a7a669b91c345"
+      }
+    },
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "not that good",
+      "rating": 2,
+      "_id": {
+        "$oid": "650a81d70f6a7a669b91c350"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-20T05:22:29.251Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-22T06:26:02.513Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "650e83677a297b27c1d980aa"
+  },
+  "book": {
+    "$oid": "65053f4e943fa6b490898794"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "6503cea228159b4510e1fbf1"
+      },
+      "message": "update Great book",
+      "rating": 3,
+      "_id": {
+        "$oid": "650e83677a297b27c1d980ac"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-23T06:19:19.247Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-23T06:19:59.669Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65275d84ecd73b596ef4ae2c"
+  },
+  "book": {
+    "$oid": "6526340027e10bcf2d9f1c2a"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "Great Book",
+      "rating": 3,
+      "_id": {
+        "$oid": "65275d84ecd73b596ef4ae2e"
+      }
+    },
+    {
+      "user": {
+        "$oid": "651beefca9b8ac6f877f6e94"
+      },
+      "message": "average book",
+      "rating": 4,
+      "_id": {
+        "$oid": "65275dc6ecd73b596ef4ae71"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T02:44:20.240Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T02:45:26.135Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "65277023ecd73b596ef4b17d"
+  },
+  "book": {
+    "$oid": "65018c91b5b9996c54eb0fdf"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "651beefca9b8ac6f877f6e94"
+      },
+      "message": "Great Book",
+      "rating": 5,
+      "_id": {
+        "$oid": "65277023ecd73b596ef4b17f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T04:03:47.102Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T04:03:47.435Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6528065aaf3f54df0a768123"
+  },
+  "book": {
+    "$oid": "6527b2462f9ca3ff4074541b"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "651fcc1e3415ef9211fb6696"
+      },
+      "message": "It's a great book.",
+      "rating": 5,
+      "_id": {
+        "$oid": "6528065baf3f54df0a768125"
+      }
+    },
+    {
+      "user": {
+        "$oid": "65090c6112a561e7bcafc94a"
+      },
+      "message": "valoi khrarp na update",
+      "rating": 4,
+      "_id": {
+        "$oid": "6528a124dc0ada828cc59001"
+      }
+    },
+    {
+      "user": {
+        "$oid": "651beefca9b8ac6f877f6e94"
+      },
+      "message": "Great Book update",
+      "rating": 4,
+      "_id": {
+        "$oid": "6528cbd16d03dc87c0667de1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T14:44:42.704Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:47:54.341Z"
+  },
+  "__v": 3
+}]

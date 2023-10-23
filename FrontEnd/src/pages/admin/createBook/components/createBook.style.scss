@@ -1,0 +1,47 @@
+@import './../../../../scss/constant.scss';
+.create-book-container {
+  // height: 100dvh;
+  display: grid;
+  place-items: center;
+  box-shadow: $boxShadow;
+  max-width: 800px;
+  border-radius: 0.5rem;
+  margin: auto;
+  padding-top: 20px;
+}
+.create-book-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  padding-bottom: 20px;
+
+  .create-book-input-container {
+    display: grid;
+  }
+  .create-book-input-container input {
+    outline: 1px solid royalblue;
+    border: 1px solid #e5e7eb;
+    // margin: 8px 0;
+  }
+}
+.create-book-header {
+  display: grid;
+  width: 100%;
+  place-items: center;
+}
+@media (max-width: 768px) {
+  .create-book-input-container {
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+}
+.error-description {
+  font-size: 16px !important;
+}
+@media (max-width: 640px) {
+  .create-book-input-container {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}

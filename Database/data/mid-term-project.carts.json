@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "6506d76a38da3ab227a4a53b"
+  },
+  "user": {
+    "$oid": "6503cea228159b4510e1fbf1"
+  },
+  "transactionComplete": false,
+  "books": [],
+  "createdAt": {
+    "$date": "2023-09-17T10:39:38.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T05:06:16.215Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "6508271c3e206b61f9858f4f"
+  },
+  "user": {
+    "$oid": "6502e278d412e682653fff98"
+  },
+  "transactionComplete": false,
+  "books": [
+    {
+      "book": {
+        "$oid": "65018c91b5b9996c54eb0fdd"
+      },
+      "quantity": 3
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-18T10:31:56.963Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-23T04:40:52.828Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "65093bc7c118cc7310299f49"
+  },
+  "user": {
+    "$oid": "65090c6112a561e7bcafc94a"
+  },
+  "books": [],
+  "createdAt": {
+    "$date": "2023-09-19T06:12:23.912Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:34:31.047Z"
+  },
+  "__v": 96
+},
+{
+  "_id": {
+    "$oid": "6509bd70708d8ea051715ba3"
+  },
+  "user": {
+    "$oid": "6509bd0b708d8ea051715b94"
+  },
+  "books": [],
+  "createdAt": {
+    "$date": "2023-09-19T15:25:36.520Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T16:04:24.417Z"
+  },
+  "__v": 19
+},
+{
+  "_id": {
+    "$oid": "650a4c343724e1e7b87344e5"
+  },
+  "user": {
+    "$oid": "650a4bbc3724e1e7b87344d8"
+  },
+  "books": [],
+  "createdAt": {
+    "$date": "2023-09-20T01:34:44.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T04:40:52.172Z"
+  },
+  "__v": 15
+},
+{
+  "_id": {
+    "$oid": "6526c575e8e1724172b60bf8"
+  },
+  "user": {
+    "$oid": "651fcc1e3415ef9211fb6696"
+  },
+  "books": [],
+  "createdAt": {
+    "$date": "2023-10-11T15:55:33.284Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T14:55:19.327Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "65275e08ecd73b596ef4ae95"
+  },
+  "user": {
+    "$oid": "651beefca9b8ac6f877f6e94"
+  },
+  "books": [
+    {
+      "book": {
+        "$oid": "6527b2462f9ca3ff4074541b"
+      },
+      "quantity": 2
+    },
+    {
+      "book": {
+        "$oid": "651a236ebf4a0fa0da1dfa50"
+      },
+      "quantity": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T02:46:32.779Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T05:26:08.938Z"
+  },
+  "__v": 16
+}]

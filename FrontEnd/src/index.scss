@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+  // background-color: red($color: #000000);
+  // overflow-x: hidden;
+}
+.text-center {
+  text-align: center;
+}
+.font-18 {
+  font-size: 18px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px !important;
+}
+.mt-70 {
+  margin-top: 70px;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.mb-80 {
+  margin-bottom: 80px;
+}
+.mb-150 {
+  margin-bottom: 150px;
+}
+.font-30 {
+  font-size: 30px;
+}
+.text-bold {
+  font-weight: 600;
+}
+
+.error-message {
+  color: red;
+  font-size: 20px;
+}
+.color-red {
+  color: red;
+}
+.color-gray {
+  color: rgb(111, 109, 109);
+}
+.chip {
+  background-color: rgb(192, 189, 189);
+  color: white;
+  border-radius: 5px;
+}
+.pointer {
+  cursor: pointer;
+}
+
+.flex {
+  display: flex;
+  gap: 5px;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.admin-sidebar-alignment {
+  display: grid;
+  grid-template-columns: 0.2fr 1fr;
+  grid-gap: 30px;
+  // position: fixed;
+}
+
+.max-width-600px {
+  width: 600px !important;
+  margin: 0 auto;
+}
+.items-center {
+  justify-items: center;
+}
+
+.width-full {
+  width: 100% !important;
+}
+.width-94 {
+  width: 94% !important;
+}
+
+.ps-sidebar-root {
+  height: 100dvh;
+}
+.width-600px {
+  width: 600px !important;
+}
+
+.normal-btn {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.content-center-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.max-width-half {
+  max-width: 50%;
+}
+.mt-22 {
+  margin-top: 22px;
+}
+.items-center-grid {
+  display: grid;
+  place-content: center;
+}
+
+.font-25 {
+  font-size: 25px;
+}
+
+.color-royal-blue {
+  color: royalblue;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.gap-20 {
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-transparent {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.font-justify {
+  text-align: justify;
+}
+.bg-red {
+  background-color: red !important;
+}
+
+.navbar-link {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.navbar-link a {
+  color: black;
+  padding: 8px 12px;
+}
+
+.navbar-link a:hover {
+  background-color: royalblue;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 10px;
+}
+
+.mb-200 {
+  margin-bottom: 230px;
+}
+
+.width-42 {
+  width: 42%;
+}

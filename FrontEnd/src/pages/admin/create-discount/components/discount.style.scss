@@ -1,0 +1,18 @@
+@import "./../../../../scss/constant.scss";
+.discount-container {
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: $boxShadow;
+  padding: 20px 30px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  height: fit-content;
+}
+.discount-input input {
+  width: 94%;
+}
+.discount-btn-div {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

@@ -1,0 +1,14 @@
+.banner-container{
+    // width: 100vw;
+    display: grid;
+    place-items: center;
+    // background-color: tomato;
+  padding: 10px 20px;
+
+
+}
+.banner-img{
+    width: 85%;
+    height: 90%;
+    object-fit: cover;
+}

@@ -1,0 +1,69 @@
+.book-review-container {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+.user-avatar {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.avatar-img {
+  width: 3%;
+  object-fit: cover;
+}
+.add-review {
+  display: flex;
+  justify-content: center;
+}
+.rating-div {
+  width: 300px;
+}
+.review-form {
+  display: flex;
+  flex-direction: column;
+}
+.user-review {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  // border: 1px solid black;
+}
+.reviews-desc {
+  display: flex;
+  flex-direction: column;
+}
+.review-action-btn {
+  display: flex;
+  gap: 10px;
+}
+@media (max-width: 1024px) {
+  .book-review-container {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
+
+@media (max-width: 768px) {
+  .book-review-container {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+  .avatar-img {
+    width: 5%;
+    object-fit: cover;
+  }
+}
+@media (max-width: 640px) {
+  .avatar-img {
+    width: 8%;
+    object-fit: cover;
+  }
+}
+
+.add-review{
+  flex-basis: 40%;
+}
+.user-review{
+  flex-basis: 50%;
+}

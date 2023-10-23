@@ -1,0 +1,17 @@
+/* StarRating.css */
+.star-rating {
+  display: inline-block;
+  font-size: 24px; /* Adjust the font size as needed */
+}
+
+.star {
+  color: #ffd700; /* Color of the stars (yellow) */
+}
+
+.filled::before {
+  content: '\2605'; /* Unicode star character for a filled star */
+}
+
+.empty::before {
+  content: '\2606'; /* Unicode star character for an empty star */
+}

@@ -1,0 +1,21 @@
+@import './../../../../scss/constant.scss';
+.featured-book-container {
+  max-width: 600px;
+  margin: 20px auto;
+  // overflow-x: hidden;
+}
+.book-image {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+}
+.slick-slide img {
+  display: flex;
+}
+
+.featured-book-div {
+  box-shadow: $boxShadow;
+}
+.featured-book-container:active {
+  border: none;
+}

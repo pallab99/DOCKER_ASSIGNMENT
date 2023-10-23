@@ -1,0 +1,324 @@
+[{
+  "_id": {
+    "$oid": "6502e280d412e682653fff9a"
+  },
+  "email": "user@gamil.com",
+  "password": "$2b$10$FNz2xBQ5te5vhEu9Ah31Ku3lWsNVG/mzOpGi6kPbxnKxzVSO4G9ZK",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6502e278d412e682653fff98"
+  },
+  "sessionActive": true,
+  "createdAt": {
+    "$date": "2023-09-14T10:37:52.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T02:58:11.390Z"
+  },
+  "__v": 0,
+  "verificationCode": 123456,
+  "isUserRestricted": true
+},
+{
+  "_id": {
+    "$oid": "6503cea228159b4510e1fbf3"
+  },
+  "email": "user1@gamil.com",
+  "password": "$2b$10$eyBa/0mBwPv01Bhii4AJE.RBofeQtTFvHezPHXUMMy/J78BtV.CZq",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6503cea228159b4510e1fbf1"
+  },
+  "sessionActive": true,
+  "createdAt": {
+    "$date": "2023-09-15T03:25:22.485Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T03:25:40.227Z"
+  },
+  "__v": 0,
+  "verificationCode": 234563,
+  "isUserRestricted": false
+},
+{
+  "_id": {
+    "$oid": "6504331baad3622d07c5461f"
+  },
+  "email": "admin@gamil.com",
+  "password": "$2b$10$fFSCamaGItPqhqf./idZpOANZOPwvTKJ0oizsrVyMuuTY6wEPUlgW",
+  "isVerified": true,
+  "rank": 1,
+  "user": {
+    "$oid": "6504331aaad3622d07c5461d"
+  },
+  "sessionActive": true,
+  "createdAt": {
+    "$date": "2023-09-15T10:34:03.144Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T10:34:09.076Z"
+  },
+  "__v": 0,
+  "verificationCode": 764976,
+  "isUserRestricted": false,
+  "resetPassword": false
+},
+{
+  "_id": {
+    "$oid": "65090c6212a561e7bcafc94c"
+  },
+  "email": "majumdarp79@gamil.com",
+  "password": "$2b$10$QpGy5MNnq1fWrusk9xamXeWVqCkrOjoVQ2zV8Rl4zasczyq2tHvne",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "65090c6112a561e7bcafc94a"
+  },
+  "sessionActive": true,
+  "createdAt": {
+    "$date": "2023-09-19T02:50:10.143Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T02:51:30.004Z"
+  },
+  "__v": 0,
+  "verificationCode": 298453,
+  "isUserRestricted": false,
+  "resetPassword": false
+},
+{
+  "_id": {
+    "$oid": "65097816ba5f6eced9a43d71"
+  },
+  "email": "majumdarp779@gamil.com",
+  "password": "$2b$10$HNoqrV73BPW3mfuInYPc4u1Zb9wREE5aAM18u6gilpcHvJHkbxnxu",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "65097816ba5f6eced9a43d6f"
+  },
+  "verificationCode": 445519,
+  "createdAt": {
+    "$date": "2023-09-19T10:29:42.667Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T10:30:56.982Z"
+  },
+  "__v": 0,
+  "isUserRestricted": false
+},
+{
+  "_id": {
+    "$oid": "6509a597f8bc2c769085be97"
+  },
+  "email": "temp@gamil.com",
+  "password": "$2b$10$FlEBPY3Cf/is//b4sbbxE.NNSz1DilJ7H32Arwt1.IOXRfA8HkJjW",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6509a597f8bc2c769085be95"
+  },
+  "verificationCode": 996535,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-09-19T13:43:51.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T10:09:57.726Z"
+  },
+  "__v": 0,
+  "resetPassword": null,
+  "resetPasswordExpired": null,
+  "resetPasswordToken": null
+},
+{
+  "_id": {
+    "$oid": "6509bd0b708d8ea051715b96"
+  },
+  "email": "tester@gamil.com",
+  "password": "$2b$10$6vaaZFgWUU/yPzjPb5fOg./1eG5Nh4Xy4q.yTCBL5mYZ4vUNFZ8ga",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6509bd0b708d8ea051715b94"
+  },
+  "verificationCode": 216103,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-09-19T15:23:55.896Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T15:24:22.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650a4bbc3724e1e7b87344da"
+  },
+  "email": "newuser@gamil.com",
+  "password": "$2b$10$sKdMLSc/tRCW92HCz3VcveCLPrxiQD6WDdgTwzTDkH/okzFiAuXJa",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "650a4bbc3724e1e7b87344d8"
+  },
+  "verificationCode": 504640,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-09-20T01:32:44.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T01:34:11.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650a6eb40f6a7a669b91c2e9"
+  },
+  "email": "newuser1@gamil.com",
+  "password": "$2b$10$1NDpvz9ERZumlsbYsmkOQeuolVLiIjTD/WmiQ6Rj5vT8LzY6Ao.nC",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "650a6eb30f6a7a669b91c2e7"
+  },
+  "verificationCode": 287346,
+  "isUserRestricted": true,
+  "createdAt": {
+    "$date": "2023-09-20T04:01:56.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T03:19:56.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651beefca9b8ac6f877f6e96"
+  },
+  "email": "majumdarp79@gmail.com",
+  "password": "$2b$10$J2mR4xs0.pbCqI2zzCVsJ.oavtEuNoGiijuvnQg3VraFLECMRpcQG",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "651beefca9b8ac6f877f6e94"
+  },
+  "verificationCode": 421742,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-03T10:37:48.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-03T10:38:07.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fc8933415ef9211fb6667"
+  },
+  "email": "newuser79@gamil.com",
+  "password": "$2b$10$z91nehhm0E.t2YxRrc8YBehhICkl55Dk0AmCvlUrSST3bTdNVqNq2",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "651fc8923415ef9211fb6665"
+  },
+  "verificationCode": 224758,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-06T08:42:59.351Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T03:26:15.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fcc1e3415ef9211fb6698"
+  },
+  "email": "newuser769@gamil.com",
+  "password": "$2b$10$VymdItX9ETgdSLHwTTInrOnxmSAyF28b7WrO0KqjDgiAggzcXIrEW",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "651fcc1e3415ef9211fb6696"
+  },
+  "verificationCode": 411918,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-06T08:58:06.947Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T05:19:30.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652614a22a9756274c2a0f9c"
+  },
+  "email": "testing@gmail.cpom",
+  "password": "$2b$10$BHZEimYUNl1gGD9xzF/f/ep0DIN68cYMh8JNkZKMmAfxgHdiYMuKi",
+  "isVerified": false,
+  "rank": 2,
+  "user": {
+    "$oid": "652614a12a9756274c2a0f9a"
+  },
+  "verificationCode": 315718,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-11T03:21:06.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T03:36:19.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528a9dc6d03dc87c0667b48"
+  },
+  "email": "refactor@gmail.com",
+  "password": "$2b$10$SXz9f.b9qG8mlh.lUF3SaeroIfHHRkoTIBUG5twqGfLQlo.koBUsS",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6528a9dc6d03dc87c0667b46"
+  },
+  "verificationCode": 839414,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-13T02:22:20.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T02:22:20.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528ca136d03dc87c0667d7b"
+  },
+  "email": "newuser@gmail.com",
+  "password": "$2b$10$O0uTlYTf0xpKIcBbZZD5luMRK3nr8VLVvkF/q5nCOmnO3weepocbS",
+  "isVerified": true,
+  "rank": 2,
+  "user": {
+    "$oid": "6528ca136d03dc87c0667d79"
+  },
+  "verificationCode": 990317,
+  "isUserRestricted": false,
+  "createdAt": {
+    "$date": "2023-10-13T04:39:47.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:39:47.566Z"
+  },
+  "__v": 0
+}]

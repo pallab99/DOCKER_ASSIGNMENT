@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65263ab127e10bcf2d9f1cf8"
+  },
+  "discountPercentage": 30,
+  "bookIds": [
+    {
+      "$oid": "6526387727e10bcf2d9f1cb7"
+    },
+    {
+      "$oid": "6526340027e10bcf2d9f1c2a"
+    },
+    {
+      "$oid": "6527b2462f9ca3ff4074541b"
+    }
+  ],
+  "startDate": {
+    "$date": "2023-10-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "counties": [
+    "BD"
+  ],
+  "__v": 13
+},
+{
+  "_id": {
+    "$oid": "6527d0d46eb00e7c712dd624"
+  },
+  "discountPercentage": 23,
+  "bookIds": [
+    {
+      "$oid": "65090384bf3ce2bc92630721"
+    },
+    {
+      "$oid": "651a236ebf4a0fa0da1dfa50"
+    }
+  ],
+  "startDate": {
+    "$date": "2023-10-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2023-10-14T00:00:00.000Z"
+  },
+  "counties": [
+    "BD",
+    "US"
+  ],
+  "__v": 8
+}]

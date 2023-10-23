@@ -1,0 +1,210 @@
+@import "./../../../scss/colors.scss";
+.submit-btn {
+  display: block;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  background-color: $submitBtnPrimaryColor;
+  color: #ffffff;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 500;
+  width: 100%;
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: $submitBtnHoverColor;
+}
+
+.view-all-book-btn {
+  padding: 10px 20px;
+  background-color: $submitBtnPrimaryColor;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: white;
+  border: none;
+  outline: none;
+}
+.view-all-book-btn:hover {
+  background-color: $submitBtnHoverColor;
+}
+.delete-btn {
+  padding: 10px 20px;
+  background-color: red;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: white;
+  border: none;
+  outline: none;
+}
+.delete-btn:hover {
+  background-color: rgb(228, 56, 56);
+}
+.plus-btn {
+  cursor: pointer;
+  color: black;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  background-color: transparent;
+  background-color: rgb(210, 210, 210);
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.minus-btn {
+  cursor: pointer;
+  color: black;
+  outline: none;
+  font-size: 18px;
+  border: none;
+  background-color: rgb(210, 210, 210);
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.checkout {
+  padding: 10px 20px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.checkout:hover {
+  background-color: rgb(58, 57, 57);
+}
+.subscribe-now-btn {
+  padding: 0px 5px;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background-color: #ec971f;
+}
+.navigate-to-home {
+  padding: 5px 10px;
+  color: rgb(8, 0, 0);
+  border: 1px solid black;
+  outline: none;
+  cursor: pointer;
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background-color: #ffffff;
+}
+.navigate-to-home:hover {
+  background-color: royalblue;
+  border: 1px solid royalblue;
+  color: white;
+}
+.create-book-btn {
+  padding: 1rem;
+  color: rgb(8, 0, 0);
+  border: 1px solid royalblue;
+  outline: none;
+  cursor: pointer;
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.create-book-btn:hover {
+  background-color: royalblue;
+  border: 1px solid royalblue;
+  color: white;
+}
+.add-discount-btn {
+  padding: 0.8rem;
+  color: rgb(8, 0, 0);
+  border: 1px solid royalblue;
+  outline: none;
+  cursor: pointer;
+  line-height: 1.25rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.add-discount-btn:hover {
+  background-color: royalblue;
+  border: 1px solid royalblue;
+  color: white;
+}
+
+.user-edit-btn {
+  padding: 0.5rem;
+  color: white;
+  border: 1px solid royalblue;
+  outline: none;
+  cursor: pointer;
+  line-height: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 5px;
+  background-color: royalblue;
+}
+
+.user-edit-btn:hover {
+  background-color: rgb(91, 127, 233);
+}
+
+.user-delete-btn {
+  padding: 0.5rem;
+  color: white;
+  border: 1px solid red;
+  outline: none;
+  cursor: pointer;
+  line-height: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  border-radius: 5px;
+  background-color: red;
+}
+
+.user-delete-btn:hover {
+  background-color: rgb(247, 68, 68);
+}
+
+.pagination-btn-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  background-color: white;
+  
+}
+
+.pagination-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  outline: none;
+  border: none;
+}
+
+.pagination-btn:hover {
+  background-color: #ddd;
+}

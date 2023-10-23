@@ -1,0 +1,323 @@
+[{
+  "_id": {
+    "$oid": "6502e278d412e682653fff98"
+  },
+  "name": "Normal user",
+  "email": "user@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T10:37:44.707Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T14:13:42.157Z"
+  },
+  "__v": 0,
+  "balance": 1650
+},
+{
+  "_id": {
+    "$oid": "6503cea228159b4510e1fbf1"
+  },
+  "name": "user new updated",
+  "email": "user1@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "IND",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-223"
+  },
+  "createdAt": {
+    "$date": "2023-09-15T03:25:22.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:37:41.031Z"
+  },
+  "__v": 0,
+  "balance": 2011
+},
+{
+  "_id": {
+    "$oid": "6504331aaad3622d07c5461d"
+  },
+  "name": "Admin",
+  "email": "admin@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-15T10:34:02.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T10:34:02.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65090c6112a561e7bcafc94a"
+  },
+  "name": "Pallab Majumdar",
+  "email": "majumdarp79@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T02:50:09.718Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:34:55.758Z"
+  },
+  "__v": 0,
+  "balance": 1601.0919999999996
+},
+{
+  "_id": {
+    "$oid": "65097816ba5f6eced9a43d6f"
+  },
+  "name": "Pallab Majumdar",
+  "email": "majumdarp779@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T10:29:42.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T10:36:45.409Z"
+  },
+  "__v": 0,
+  "balance": 20000
+},
+{
+  "_id": {
+    "$oid": "6509a597f8bc2c769085be95"
+  },
+  "name": "temp user",
+  "email": "temp@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T13:43:51.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T13:43:51.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509bd0b708d8ea051715b94"
+  },
+  "name": "temp user",
+  "email": "tester@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-19T15:23:55.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T16:04:24.910Z"
+  },
+  "__v": 0,
+  "balance": 19462.53
+},
+{
+  "_id": {
+    "$oid": "650a4bbc3724e1e7b87344d8"
+  },
+  "name": "New user",
+  "email": "newuser@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "US",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T01:32:44.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T04:40:52.488Z"
+  },
+  "__v": 0,
+  "balance": 19771.298000000003
+},
+{
+  "_id": {
+    "$oid": "650a6eb30f6a7a669b91c2e7"
+  },
+  "name": "New user",
+  "email": "newuser1@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "USA",
+    "city": "Dhaka",
+    "area": "mirpur-2",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-09-20T04:01:55.685Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T04:01:55.685Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651beefca9b8ac6f877f6e94"
+  },
+  "name": "Pallab majumdar",
+  "email": "majumdarp79@gmail.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "Mirpur",
+    "street": "Road-2"
+  },
+  "createdAt": {
+    "$date": "2023-10-03T10:37:48.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T04:18:30.339Z"
+  },
+  "__v": 0,
+  "balance": 208.01
+},
+{
+  "_id": {
+    "$oid": "651fc8923415ef9211fb6665"
+  },
+  "name": "Pallab Majumdar",
+  "email": "newuser79@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "Mirpur",
+    "street": "Road-2"
+  },
+  "createdAt": {
+    "$date": "2023-10-06T08:42:58.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T08:42:58.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fcc1e3415ef9211fb6696"
+  },
+  "name": "Pallab Majumdar",
+  "email": "newuser769@gamil.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "Mirpur",
+    "street": "Road-2"
+  },
+  "createdAt": {
+    "$date": "2023-10-06T08:58:06.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T14:55:19.663Z"
+  },
+  "__v": 0,
+  "balance": 1387
+},
+{
+  "_id": {
+    "$oid": "652614a12a9756274c2a0f9a"
+  },
+  "name": "testing user update now",
+  "email": "testing@gmail.cpom",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "US",
+    "city": "Dhaka",
+    "area": "Mirpur",
+    "street": "road223"
+  },
+  "createdAt": {
+    "$date": "2023-10-11T03:21:05.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T05:57:47.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528a9dc6d03dc87c0667b46"
+  },
+  "name": "Refactor",
+  "email": "refactor@gmail.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "IND",
+    "city": "Dhaka",
+    "area": "mirpur-10",
+    "street": "road-2"
+  },
+  "createdAt": {
+    "$date": "2023-10-13T02:22:20.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T02:22:20.225Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528ca136d03dc87c0667d79"
+  },
+  "name": "New User",
+  "email": "newuser@gmail.com",
+  "phoneNumber": 1984101170,
+  "address": {
+    "country": "BD",
+    "city": "Dhaka",
+    "area": "Mirpur",
+    "street": "road223"
+  },
+  "createdAt": {
+    "$date": "2023-10-13T04:39:47.040Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T04:39:47.040Z"
+  },
+  "__v": 0
+}]
