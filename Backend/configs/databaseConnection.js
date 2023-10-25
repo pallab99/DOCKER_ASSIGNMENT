@@ -2,8 +2,7 @@ const mongoose = require("mongoose");
 
 const connectDB = async (callback) => {
   try {
-    const dbConnectionString =
-      "mongodb://mongo-container-compose:27017/mid-term-project";
+    const dbConnectionString = process.env.DB_CONNECTION_STRING;
     console.log("connection string", dbConnectionString);
     if (dbConnectionString) {
       const client = await mongoose.connect(dbConnectionString, {
