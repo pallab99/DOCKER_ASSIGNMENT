@@ -1,11 +1,5 @@
-version: "3.8"
+version: "3"
 services:
-  mongo:
-    image: mongo
-    container_name: mongo-container-compose
-    ports:
-      - "27017:27017"
-
   backend:
     build:
       context: ./Backend/  
@@ -13,8 +7,6 @@ services:
     container_name: backend-container-compose
     ports:
       - "8000:8000"
-    links:
-      - mongo
 
   frontend:
     build:
@@ -23,6 +15,3 @@ services:
     container_name: online-book-store-compose
     ports:
       - "5173:5173"
-
-networks:
-  my-network:
