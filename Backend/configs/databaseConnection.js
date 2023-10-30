@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const connectDB = async (callback) => {
   try {
     const dbConnectionString = process.env.DB_CONNECTION_STRING;
+    console.log("hhhh", dbConnectionString);
     if (dbConnectionString) {
       const client = await mongoose.connect(dbConnectionString, {
         useNewUrlParser: true,
