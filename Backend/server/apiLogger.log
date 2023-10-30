@@ -32381,3 +32381,53 @@ ENOENT: no such file or directory, unlink 'public\images\1697533489305_Nondito_N
 
 /api/books/all?offset=1&limit=6  ( Time -> October 23, 2023 1:07 PM)
 
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:45 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:46 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:46 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:47 AM)
+
+result is not defined  ( Time -> October 25, 2023 7:47 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:47 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 7:54 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:07 AM)
+
+Operation `books.countDocuments()` buffering timed out after 10000ms  ( Time -> October 25, 2023 8:07 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:07 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:08 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:15 AM)
+
+Operation `books.countDocuments()` buffering timed out after 10000ms  ( Time -> October 25, 2023 8:15 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:17 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 8:17 AM)
+
+Operation `books.countDocuments()` buffering timed out after 10000ms  ( Time -> October 25, 2023 8:18 AM)
+
+/api/books/all  ( Time -> October 25, 2023 8:23 AM)
+
+/api/books/all  ( Time -> October 25, 2023 8:26 AM)
+
+Operation `books.countDocuments()` buffering timed out after 10000ms  ( Time -> October 25, 2023 8:26 AM)
+
+/api/books/all  ( Time -> October 25, 2023 8:26 AM)
+
+/api/books/all  ( Time -> October 25, 2023 8:29 AM)
+
+/api/books/all  ( Time -> October 25, 2023 8:30 AM)
+
+/api/books/all?offset=1&limit=5  ( Time -> October 25, 2023 9:11 AM)
+
+/api/books/all  ( Time -> October 25, 2023 9:11 AM)
+
+Operation `books.countDocuments()` buffering timed out after 10000ms  ( Time -> October 25, 2023 9:11 AM)
+

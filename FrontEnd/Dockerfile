@@ -1,10 +1,9 @@
 FROM node:20.8.1-slim
 
-WORKDIR /app
+WORKDIR /usr/src/app
 
 COPY package*.json ./
-
-RUN npm install
+RUN npm i
 
 COPY . .
 
